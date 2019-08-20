@@ -14,6 +14,11 @@ Et un PPTX original, pour des customisations.
 ![](Cartes-Meteo/meteo.jpg)
 ![](Cartes-Photolangage/Photolangage.png)
 ![](Cartes-Planning-Poker-XL/planning-poker-xl.png)
+
+![](Kakemonos/Agile-Kakemono-InAction.png)
+![](Kakemonos/Extended-Scrum-InAction.png)
+![](Kakemonos/Lean-Kanban-InAction.png)
+
 ![](Team-Burndown-A3/Team-BurnDown-InAction.jpg)
 ![](Team-Feedbacks-A3/Team-Feedbacks-InAction.jpg)
 ![](Team-NikoNikoWeek-A3/Team-NikoNikoWeek-InAction.jpg)
