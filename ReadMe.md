@@ -2,10 +2,10 @@
 
 Un set de posters et de cartes incontournables de l'agilité ... 
 
-C'est ici et nulle part ailleurs 
+C'est ici et nulle part ailleurs.
 
 Des PNGs prêts à imprimer, et à plastifier si nécessaire. 
-Et un PPTX original, pour des customisations.
+Et le PPTX original, pour des customisations éventuelles.
 
 ![](Cartes-Emoticons/emoticons.jpg)
 ![](Cartes-Planning-Poker/planning-poker.jpg)
@@ -19,6 +19,5 @@ Et un PPTX original, pour des customisations.
 ![](Kakemonos/Extended-Scrum-InAction.png)
 ![](Kakemonos/Lean-Kanban-InAction.png)
 
-![](Team-Burndown-A3/Team-BurnDown-InAction.jpg)
 ![](Team-Feedbacks-A3/Team-Feedbacks-InAction.jpg)
 ![](Team-NikoNikoWeek-A3/Team-NikoNikoWeek-InAction.jpg)
