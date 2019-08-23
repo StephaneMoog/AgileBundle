@@ -20,6 +20,10 @@ Dandy People : [Agile Pattern Cards](https://media.dandypeople.com/2018/02/free-
 
 [UX Cards from UXREPUBLIC ](https://www.ux-republic.com/boutique/)
 
-[UX Flowchart Cards](https://www.uxflowcharts.com/)
+![](ux-flowcharts.png)
+
+[UX Flowcharts Cards](https://www.uxflowcharts.com/)
+
+![](law-of-pragnanz.jpg)
 
 [Laws of UX](https://lawsofux.com/)
