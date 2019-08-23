@@ -19,5 +19,7 @@ Dandy People : [Agile Pattern Cards](https://media.dandypeople.com/2018/02/free-
 ![](ux-tools.png)
 
 [UX Cards from UXREPUBLIC ](https://www.ux-republic.com/boutique/)
+
 [UX Flowchart Cards](https://www.uxflowcharts.com/)
+
 [Laws of UX](https://lawsofux.com/)
