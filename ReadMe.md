@@ -10,7 +10,7 @@ Et le PPTX original, pour des customisations éventuelles.
 ![](Cartes-Emoticons/emoticons.jpg)
 ![](Cartes-Planning-Poker/planning-poker.jpg)
 ![](Cartes-Cognitive-Biases/cognitive-biases.jpg)
-![](Cartes-ELMO/elmo.png)
+![](Cartes-ELMO/elmo1.png)
 ![](Cartes-Meteo/meteo.jpg)
 ![](Cartes-Photolangage/Photolangage.png)
 ![](Cartes-Planning-Poker-XL/planning-poker-xl.png)
