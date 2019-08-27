@@ -24,3 +24,13 @@ Les photos proviennent du site [unsplash](https://unsplash.com/), une mine d'or.
 
 ![](Jeu100-0-Catalogue.png)
 
+"Picturetelling is a creative method used to work with groups. The intention is to explore by means of explaining, communicating and telling a story based on a picture.The advantage of this method lies within the picture taking over the role of a mediator. The picture is part of the description and not the person him or herself. This enables the narrator to talk about personal issues without feeling exposed."
+
+- What is my role in the team? 
+- What are my strengths?
+- What would I like to achieve in this seminar? 
+- What could keep me from achieving it?
+- What are my strengths? 
+- What do I need help with?
+- How do I feel in this team? 
+- What would help me to feel better?

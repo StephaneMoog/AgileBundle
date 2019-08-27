@@ -27,3 +27,7 @@ Dandy People : [Agile Pattern Cards](https://media.dandypeople.com/2018/02/free-
 ![](law-of-pragnanz.jpg)
 
 [Laws of UX](https://lawsofux.com/)
+
+![](Mieux-Travailler-Ensemble.jpg)
+
+Mieux travailler ensemble, [52 cartes pour dénouer les conflits](http://www.outilsetpratiquedelamediation.com/?page_id=6812)

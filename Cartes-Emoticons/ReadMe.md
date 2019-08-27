@@ -1,3 +1,3 @@
-# Emoticons
+# Emoticons / feelin'cards
 
 ![](emoticons.jpg)
