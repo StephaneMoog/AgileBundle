@@ -13,8 +13,10 @@ Et le PPTX original, pour des customisations éventuelles.
 ![](Cartes-ELMO/elmo1.jpg)
 ![](Cartes-Meteo/meteo.jpg)
 ![](Cartes-Photolangage/Photolangage.png)
-![](Cartes-Planning-Poker-XL/planning-poker-xl.png)
 ![](Cartes-Scrum-Master/scrum-master.jpg)
+![](Links/Agile-Pattern-Cards.jpg)
+
+![](Cartes-Planning-Poker-XL/planning-poker-xl.png)
 
 ![](Kakemonos/Agile-Kakemono-InAction.png)
 ![](Kakemonos/Extended-Scrum-InAction.png)
