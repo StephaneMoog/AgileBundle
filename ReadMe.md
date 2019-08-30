@@ -14,6 +14,7 @@ Et le PPTX original, pour des customisations éventuelles.
 ![](Cartes-Meteo/meteo.jpg)
 ![](Cartes-Photolangage/Photolangage.png)
 ![](Cartes-Planning-Poker-XL/planning-poker-xl.png)
+![](Cartes-Scrum-Master/scrum-master.jpg)
 
 ![](Kakemonos/Agile-Kakemono-InAction.png)
 ![](Kakemonos/Extended-Scrum-InAction.png)

@@ -32,3 +32,8 @@ Dandy People : [Agile Pattern Cards](https://media.dandypeople.com/2018/02/free-
 ![](Mieux-Travailler-Ensemble.jpg)
 
 Mieux travailler ensemble, [52 cartes pour dénouer les conflits](http://www.outilsetpratiquedelamediation.com/?page_id=6812)
+
+![](board-of-innovation1.jpg)
+![](board-of-innovation2.jpg)
+
+Board Of Innovation : [52 brainstorm cards](https://www.boardofinnovation.com/tools/brainstorm-cards/)
