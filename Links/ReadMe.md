@@ -1,6 +1,7 @@
 # LINKS
 
-![](Agile-Topics-Cards.png)
+![](Agile-Topics-Cards2.jpg)
+![](Agile-Topics-Cards1.jpg)
 
 Jimmy Janlen : [Agile Topics card deck](https://blog.crisp.se/2015/10/08/jimmyjanlen/agile-topics-card-deck)
 
