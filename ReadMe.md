@@ -10,17 +10,17 @@ Et le PPTX original, pour des customisations éventuelles.
 ![](Cartes-Emoticons/emoticons.jpg)
 ![](Cartes-Planning-Poker/planning-poker.jpg)
 ![](Cartes-Cognitive-Biases/cognitive-biases.jpg)
-![](Cartes-ELMO/elmo1.jpg)
+![](Cartes-Meetings-ELMO/elmo1.jpg)
 ![](Cartes-Meteo/meteo.jpg)
 ![](Cartes-Photolangage/Photolangage.png)
 ![](Cartes-Scrum-Master/scrum-master.jpg)
-![](Links/Agile-Pattern-Cards.jpg)
+![](Web-Links/Agile-Pattern-Cards.jpg)
 
 ![](Cartes-Planning-Poker-XL/planning-poker-xl.png)
 
-![](Kakemonos/Agile-Kakemono-InAction.png)
-![](Kakemonos/Extended-Scrum-InAction.png)
-![](Kakemonos/Lean-Kanban-InAction.png)
+![](Agile-Kakemonos/Agile-Kakemono-InAction.png)
+![](Agile-Kakemonos/Extended-Scrum-InAction.png)
+![](Agile-Kakemonos/Lean-Kanban-InAction.png)
 
 ![](Team-Feedbacks-A3/Team-Feedbacks-InAction.jpg)
 ![](Team-NikoNikoWeek-A3/Team-NikoNikoWeek-InAction.jpg)
