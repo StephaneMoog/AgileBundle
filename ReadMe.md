@@ -11,10 +11,13 @@ Et le PPTX original, pour des customisations éventuelles.
 ![](Cartes-Planning-Poker/planning-poker.jpg)
 ![](Cartes-Cognitive-Biases/cognitive-biases.jpg)
 ![](Cartes-Meetings-ELMO/elmo1.jpg)
+![](Cartes-Meetings/9cards.jpg)
+![](Cartes-Meetings/24cards.jpg)
 ![](Cartes-Meteo/meteo.jpg)
 ![](Cartes-Photolangage/Photolangage.png)
-![](Cartes-Scrum-Master/scrum-master.jpg)
+![](Cartes-Roles-Scrum-Master/scrum-master.jpg)
 ![](Web-Links/Agile-Pattern-Cards.jpg)
+![](Web-Links/dandy-people-collection.jpg)
 
 ![](Cartes-Planning-Poker-XL/planning-poker-xl.png)
 

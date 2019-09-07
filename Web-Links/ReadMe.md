@@ -5,7 +5,7 @@
 
 Jimmy Janlen : [Agile Topics card deck](https://blog.crisp.se/2015/10/08/jimmyjanlen/agile-topics-card-deck)
 
-![](Infographic-Poster-Collection.jpg)
+![](dandy-people-collection.jpg)
 
 Dandy People : [Agile Infographic Posters Collection]( https://dandypeople.com/blog/agile-explained-infographic-posters-collection/)
 
