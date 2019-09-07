@@ -19,7 +19,6 @@ Et le PPTX original, pour des customisations éventuelles.
 ![](Web-Links/Agile-Pattern-Cards.jpg)
 ![](Web-Links/dandy-people-collection.jpg)
 ![](Posters-KeepCalm/KeepCalm.jpg)
-![](Web-Links/Mieux-Travailler-Ensemble.jpg)
 ![](Web-Links/Agile-Topics-Cards1.jpg)
 ![](Web-Links/Agile-Topics-Cards2.jpg)
 
