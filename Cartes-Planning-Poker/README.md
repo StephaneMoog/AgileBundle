@@ -1,5 +1,5 @@
 # Planning Poker Cards
 
-Color Brand Java Pnather 
+Color Brand Java Panther 
 
 ![](planning-poker.jpg)

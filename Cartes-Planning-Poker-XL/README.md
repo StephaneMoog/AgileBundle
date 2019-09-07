@@ -1,4 +1,4 @@
-# Planning Poker Cards
+# Planning Poker Cards XL
 
 Color Brand AXA XL
 
