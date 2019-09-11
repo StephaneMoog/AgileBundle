@@ -17,9 +17,9 @@ Dandy People : [Agile Pattern Cards](https://media.dandypeople.com/2018/02/free-
 
 [101 inspiring quotes about agile from Mountain Goat](https://www.mountaingoatsoftware.com/email-tips)
 
-![](board-of-innovation3.png)
+![](board-of-innovation3.jpg)
 
-[101 Quotes from board of innovation](https://www.boardofinnovation.com/tools/innovation-posters/)
+[Quotes/Posters from Board of Innovation](https://www.boardofinnovation.com/tools/innovation-posters/)
 
 ![](ux-tools.png)
 
