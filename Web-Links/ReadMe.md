@@ -13,7 +13,7 @@ Dandy People : [Agile Infographic Posters Collection]( https://dandypeople.com/b
 
 Dandy People : [Agile Pattern Cards](https://media.dandypeople.com/2018/02/free-Pattern-Cards-Print-2018.pdf)
 
-![](101-inspiring-quotes.jpg)
+![](101-agile-quotes.jpg)
 
 [101 inspiring quotes about agile from Mountain Goat](https://www.mountaingoatsoftware.com/email-tips)
 
