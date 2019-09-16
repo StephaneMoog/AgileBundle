@@ -21,6 +21,10 @@ Dandy People : [Agile Pattern Cards](https://media.dandypeople.com/2018/02/free-
 
 [Quotes/Posters from Board of Innovation](https://www.boardofinnovation.com/tools/innovation-posters/)
 
+![](scrum1.jpg) ![](scrum2.jpg)
+
+Scrum Poster from [Softhouse](https://www.softhouse.se/publikationer/)
+
 ![](ux-methodcards.jpg)
 
 [UX Cards from UXREPUBLIC ](https://www.ux-republic.com/boutique/)
