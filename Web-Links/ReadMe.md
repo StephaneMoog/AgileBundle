@@ -21,7 +21,7 @@ Dandy People : [Agile Pattern Cards](https://media.dandypeople.com/2018/02/free-
 
 [Quotes/Posters from Board of Innovation](https://www.boardofinnovation.com/tools/innovation-posters/)
 
-![](ux-method-cards.png)
+![](ux-method-cards.jpg)
 
 [UX Cards from UXREPUBLIC ](https://www.ux-republic.com/boutique/)
 
