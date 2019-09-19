@@ -33,7 +33,7 @@ Scrum Poster from [Softhouse](https://www.softhouse.se/publikationer/)
 
 [UX Flowcharts Cards](https://www.uxflowcharts.com/)
 
-![](law-of-pragnanz.jpg)
+![](law-of-ux.jpg)
 
 [Laws of UX](https://lawsofux.com/)
 
